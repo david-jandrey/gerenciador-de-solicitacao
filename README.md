@@ -1,2 +1,0 @@
-﻿# Gerenciador de Solicitação
-
